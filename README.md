@@ -1,5 +1,8 @@
 # 02 Advanced CSS: Portfolio
 
+What I did:
+This website has a recent picture of myself, and reformats itself based on the size of the window. It also has useful link to my github, and I'm working to install a meants to click scroll through the website.
+
 ## Your Task
 
 Welcome to this week's homework! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 
