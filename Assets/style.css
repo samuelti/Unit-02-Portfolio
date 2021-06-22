@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(55, 73, 102);
+    color:white;
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    position: fixed;
+    justify-content: center;
+}
+
+button {
+    
+}
+
+h1 {
+    background-color: white;
+    color: black;
+    
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.small {
+    font-size: xx-small;
+}
+
+footer {
+    font-size: small;
+    background-color: cornflowerblue;
+    text-align: center;
+    justify-content: center;
+}
